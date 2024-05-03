@@ -29,7 +29,7 @@ function Index(){
                         <div className="col-lg-4 col-md-6 col-12">
                             <div className="menu-thumb">
                                 <div className="menu-image-wrap">
-                                    <img src="Assets/images/breakfast/bk1.jpg" className="img-fluid menu-image" alt=""/>
+                                    <img src="assets/images/breakfast/bk1.jpg" className="img-fluid menu-image" alt=""/>
 
                                     <span className="menu-tag bg-warning">Breakfast</span>
                                 </div>
@@ -42,7 +42,7 @@ function Index(){
                                     <div className="d-flex flex-wrap align-items-center w-100 mt-2">
                                         <h6 className="reviews-text mb-0 me-3">4.4/5</h6>
 
-                                        <i><img src="Assets/images/stars.png" alt=""/></i>
+                                        <i><img src="assets/images/stars.png" alt=""/></i>
                                     </div>
                                 </div>
                             </div>
@@ -51,7 +51,7 @@ function Index(){
                         <div className="col-lg-4 col-md-6 col-12">
                             <div className="menu-thumb">
                                 <div className="menu-image-wrap">
-                                    <img src="Assets/images/lunch/ln3.jpg" className="img-fluid menu-image" alt=""/>
+                                    <img src="assets/images/lunch/ln3.jpg" className="img-fluid menu-image" alt=""/>
 
                                     <span className="menu-tag bg-warning">Lunch</span>
                                 </div>
@@ -64,7 +64,7 @@ function Index(){
                                     <div className="d-flex flex-wrap align-items-center w-100 mt-2">
                                         <h6 className="reviews-text mb-0 me-3">3/5</h6>
 
-                                        <i><img src="Assets/images/stars.png" alt=""/></i>
+                                        <i><img src="assets/images/stars.png" alt=""/></i>
                                     </div>
                                 </div>
                             </div>
@@ -73,7 +73,7 @@ function Index(){
                         <div className="col-lg-4 col-md-6 col-12">
                             <div className="menu-thumb">
                                 <div className="menu-image-wrap">
-                                    <img src="Assets/images/dinner/dn1.jpg" className="img-fluid menu-image" alt=""/>
+                                    <img src="assets/images/dinner/dn1.jpg" className="img-fluid menu-image" alt=""/>
 
                                     <span className="menu-tag bg-warning">Dinner</span>
                                 </div>
@@ -85,7 +85,7 @@ function Index(){
 
                                     <div className="d-flex flex-wrap align-items-center w-100 mt-2">
                                         <h6 className="reviews-text mb-0 me-3">4.4/5</h6>
-                                            <i><img src="Assets/images/stars.png" alt=""/></i>
+                                            <i><img src="assets/images/stars.png" alt=""/></i>
                                     </div>
                                 </div>
                             </div>
@@ -94,7 +94,7 @@ function Index(){
                         <div className="col-lg-4 col-md-6 col-12">
                             <div className="menu-thumb">
                                 <div className="menu-image-wrap">
-                                    <img src="Assets/images/dinner/dn2.jpg" className="img-fluid menu-image" alt=""/>
+                                    <img src="assets/images/dinner/dn2.jpg" className="img-fluid menu-image" alt=""/>
 
                                     <span className="menu-tag bg-warning">Dinner</span>
                                 </div>
@@ -107,7 +107,7 @@ function Index(){
                                     <div className="d-flex flex-wrap align-items-center w-100 mt-2">
                                         <h6 className="reviews-text mb-0 me-3">3/5</h6>
 
-                                        <i><img src="Assets/images/stars.png" alt=""/></i>
+                                        <i><img src="assets/images/stars.png" alt=""/></i>
                                     </div>
                                 </div>
                             </div>
@@ -116,7 +116,7 @@ function Index(){
                         <div className="col-lg-4 col-md-6 col-12">
                             <div className="menu-thumb">
                                 <div className="menu-image-wrap">
-                                    <img src="Assets/images/breakfast/bk2.jpg" className="img-fluid menu-image" alt=""/>
+                                    <img src="assets/images/breakfast/bk2.jpg" className="img-fluid menu-image" alt=""/>
 
                                     <span className="menu-tag bg-warning">Breakfast</span>
                                 </div>
@@ -129,7 +129,7 @@ function Index(){
                                     <div className="d-flex flex-wrap align-items-center w-100 mt-2">
                                         <h6 className="reviews-text mb-0 me-3">4.1/5</h6>
 
-                                        <i><img src="Assets/images/stars.png" alt=""/></i>
+                                        <i><img src="assets/images/stars.png" alt=""/></i>
 
                                     </div>
                                 </div>
@@ -139,7 +139,7 @@ function Index(){
                         <div className="col-lg-4 col-md-6 col-12">
                             <div className="menu-thumb">
                                 <div className="menu-image-wrap">
-                                    <img src="Assets/images/lunch/ln4.jpg" className="img-fluid menu-image" alt=""/>
+                                    <img src="assets/images/lunch/ln4.jpg" className="img-fluid menu-image" alt=""/>
 
                                     <span className="menu-tag bg-warning">Lunch</span>
                                 </div>
@@ -152,7 +152,7 @@ function Index(){
                                     <div className="d-flex flex-wrap align-items-center w-100 mt-2">
                                         <h6 className="reviews-text mb-0 me-3">4/5</h6>
 
-                                        <i><img src="Assets/images/stars.png" alt=""/></i>
+                                        <i><img src="assets/images/stars.png" alt=""/></i>
                                     </div>
                                 </div>
                             </div>
@@ -173,7 +173,7 @@ function Index(){
                         <div className="col-lg-4 col-md-6 col-12">
                             <div className="news-thumb mb-4">
                                 <a href="news-detail3.html">
-                                    <img src="Assets/images/news/evnt1.jpg" className="img-fluid news-detail-image" alt="fine dining experience"/>
+                                    <img src="assets/images/news/evnt1.jpg" className="img-fluid news-detail-image" alt="fine dining experience"/>
                                 </a>
                                 
                                 <div className="news-text-info">
@@ -191,7 +191,7 @@ function Index(){
                         <div className="col-lg-4 col-md-6 col-12">
                             <div className="news-thumb mb-4">
                                 <a href="news-detail1.html">
-                                    <img src="Assets/images/news/event2.jpg" className="img-fluid news-image" alt=""/>
+                                    <img src="assets/images/news/event2.jpg" className="img-fluid news-image" alt=""/>
                                 </a>
                                 
                                 <div className="news-text-info">
@@ -209,7 +209,7 @@ function Index(){
                         <div className="col-lg-4 col-md-6 col-12">
                             <div className="news-thumb mb-4">
                                 <a href="news-detail2.html">
-                                    <img src="Assets/images/news/event3.jpg" className="img-fluid news-image" alt=""/>
+                                    <img src="assets/images/news/event3.jpg" className="img-fluid news-image" alt=""/>
                                 </a>
                                 
                                 <div className="news-text-info">
